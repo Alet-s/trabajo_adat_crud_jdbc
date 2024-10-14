@@ -26,8 +26,7 @@ public class UsuarioDAO {
 	}
 
 	/**
-	 * Consulta todos los datos de la tabla Usuarios y los muestra por salida
-	 * estándar.
+	 * Consulta todos los datos de la tabla Usuarios.
 	 * 
 	 * @return el resultSet de la consulta.
 	 * @throws SQLException
